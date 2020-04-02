@@ -1,2 +1,2 @@
-module mer {
+module meron {
 }
